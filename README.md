@@ -60,13 +60,13 @@ Any other use, in particular any use for commercial purposes, is prohibited. Thi
 This work is partially supported by the project of the Italian Ministry of Education, Universities and Research (MIUR) ”Dipartimenti di Eccellenza 2018-2022” of the Department of Computer Science of Verona University
 
 If you use this code and/or data, please cite:
-'''
+```
 @article{garavaso5258952point,
   title={Point Cloud Segmentation for 3d Clothed Human Layering},
   author={Garavaso, Davide and Masi, Federico and Musoni, Pietro and Castellani, Umberto},
   journal={Available at SSRN 5258952}
 }
-'''
+```
 and
 ```
 @article{musoni2023gim3dplus,
@@ -81,7 +81,6 @@ url = {https://www.sciencedirect.com/science/article/pii/S1524070323000176},
 author = {Pietro Musoni and Simone Melzi and Umberto Castellani},
 }
 ```
-
 The original 3D models come from the [CLOTH3D](https://chalearnlap.cvc.uab.cat/dataset/38/description/) dataset:
 ```
 @inproceedings{bertiche2020cloth3d,
