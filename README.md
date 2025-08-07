@@ -6,7 +6,7 @@ Scanned GIM3D is an extension of GIM3D (Garments In Motion 3D) plus, a synthetic
 <img src="pipeline_dataset2.png"
 </p>
 
-Garavaso, D., and Masi, F., and Musoni, P. , S. and Castellani, U., Point Cloud Segmentation for 3d Clothed Human Layering, 3DOR 2025
+Garavaso, D. and Masi, F. and Musoni, P. and Castellani, U., Point Cloud Segmentation for 3d Clothed Human Layering, 3DOR 2025
 
 
 
