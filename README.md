@@ -48,7 +48,7 @@ For each subject directory there are six .npy files:
 
 ## Segmentation-code  
 
-To reproduce the segmentation results in the paper refer to [Multilayer Code](https://github.com/PietroMsn/Extended-Pointcept-Multilayer-Segmentation). This is a fork of the original code of PointCept (https://github.com/Pointcept/Pointcept) adapted to multilayer clothed human segmentation.
+To reproduce the segmentation results in the paper refer to [Multilayer Code](https://github.com/PietroMsn/Multilayer-Segmentation). This is a fork of the original code of PointCept (https://github.com/Pointcept/Pointcept) adapted to multilayer clothed human segmentation.
   
 ## License
 Please check the license terms (also of third parts software) before downloading and/or using the code, the models and the data. 
