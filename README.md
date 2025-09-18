@@ -6,7 +6,7 @@ Scanned GIM3D is an extension of GIM3D (Garments In Motion 3D) plus, a synthetic
 <img src="pipeline_dataset2.png"
 </p>
 
-Garavaso, D. and Masi, F. and Musoni, P. and Castellani, U., Point Cloud Segmentation for 3d Clothed Human Layering, 3DOR 2025
+Garavaso, D. and Masi, F. and Musoni, P. and Castellani, U., Point Cloud Segmentation for 3d Clothed Human Layering, Computers and Graphics 2025
 
 
 
@@ -14,7 +14,7 @@ Garavaso, D. and Masi, F. and Musoni, P. and Castellani, U., Point Cloud Segment
 
 To download the dataset: [Download Dataset](https://univr-my.sharepoint.com/:f:/g/personal/pietro_musoni_univr_it/EjZ0-1KtCn1NhqmtcdkuDngBK5l3gXg5kc-_8AZ3N0sBZA?e=AU90nM)
 
-Pre-print paper: [Point Cloud Segmentation for 3d Clothed Human Layering](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258952)
+Paper: [Point Cloud Segmentation for 3d Clothed Human Layering]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5258952](https://www.sciencedirect.com/science/article/pii/S0097849325002341))
 
 ## Contents
 * [Data](https://github.com/PietroMsn/GIM3D#Data)
